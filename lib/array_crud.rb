@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  gandalf_array = Array.new
-  gandalf_array << "Gandalf"
+  hobit_array = ["Frodo", "Samwise", "Pippin", "Merry"]
+  hobit_array << "Bilbo"
 end
 
 def add_element_to_start_of_array(array, element)
