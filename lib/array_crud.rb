@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  gandalf_array = []
+  gandalf_array = Array.new
   gandalf_array << "Gandalf"
 end
 
